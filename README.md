@@ -34,13 +34,13 @@ Esta es la muestra de los trabajos que he desarrollado a lo largo de mi curso co
 [![Proyecto Telecom Analysis](https://img.shields.io/badge/GitHub-Proyecto_Telecom_Analysis-black?style=for-the-badge&logo=github)](https://github.com/alejolion57-stack/Portafolio_Alejandro-Leon/blob/main/Proyecto_telecom_analysis.ipynb)
 [![Landing Experiment A/B](https://img.shields.io/badge/GitHub-Landing_Experiment_A%2FB-black?style=for-the-badge&logo=github)](https://github.com/alejolion57-stack/Portafolio_Alejandro-Leon/blob/main/Proyecto_Landing_Experiment_A_B.ipynb)
 
----
+</div>
 
 **📮 Contacto**
 -
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-usuario)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/tu-usuario](https://www.linkedin.com/in/alejandrole%C3%B3nospina/))
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alejolion57@email.com)
 
 </div>
 
