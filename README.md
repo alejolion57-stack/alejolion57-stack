@@ -6,7 +6,8 @@
 
 <div align="center">
 
-Un director creativo con amor por los datos. Un analista de datos con pasión por la creatividad ¡Un estratega desde todos los puntos!
+Un director creativo con amor por los datos. Un analista de datos con pasión por la creatividad 
+**¡Un estratega desde todos los puntos!**
 
 </div>
 
