@@ -12,7 +12,7 @@
 **Stack técnico**
 -
 
-<div align="expanded">
+<div align="leftd">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
