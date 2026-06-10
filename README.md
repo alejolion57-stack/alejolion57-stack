@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/alejolion57-stack/alejolion57-stack/main/banner.svg" alt="Banner Alejandro León" width="200%"/>
+  <img src="https://raw.githubusercontent.com/alejolion57-stack/alejolion57-stack/main/banner.svg" alt="Banner Alejandro León" width="100%"/>
 </div>
 
 <br/>
@@ -23,11 +23,10 @@
 
 </div>
 
----
 
 **Mis proyectos**
 -
-Esta es la muestra de los trabajos que he desarrollado a lo largo de mi curso como Analista de datos en Tripleten:
+Aquí podrá ver un la muestra de los trabajos que he desarrollado a lo largo de mi curso como Analista de datos en Tripleten:
 
 <div align="left">
 
