@@ -28,15 +28,10 @@ Un director creativo con amor por los datos. Un analista de datos con pasión po
 ---
 
 **📊 Mis proyectos**
+-
 
-<div align="center">
-  <img height="160" src="[https://github-readme-stats.vercel.app/api?username=alejolion57-stack&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117](https://github.com/alejolion57-stack/Portafolio_Alejandro-Leon/blob/main/Proyecto_NovaRetail.ipynb)" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejolion57-stack&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alejolion57-stack&theme=github-dark-blue&hide_border=true&background=0d1117" />
-</div>
+**Proyecto Nova retail**
+[https://github.com/alejolion57-stack/Portafolio_Alejandro-Leon/blob/main/Proyecto_NovaRetail.ipynb]
 
 ---
 
