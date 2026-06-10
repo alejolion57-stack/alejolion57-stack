@@ -40,8 +40,8 @@ Aquí podrá ver un la muestra de los trabajos que he desarrollado a lo largo de
 </div>
 
 
-## 🤝 Contacto
-
+**Contacto**
+-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alejandro%20León-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandrole%C3%B3nospina/)
 [![Email](https://img.shields.io/badge/Email-alejolion57%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alejolion57@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Portafolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alejolion57-stack)
