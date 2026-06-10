@@ -31,7 +31,7 @@ Un director creativo con amor por los datos. Un analista de datos con pasión po
 -
 
 **Proyecto Nova retail**
-[https://github.com/alejolion57-stack/Portafolio_Alejandro-Leon/blob/main/Proyecto_NovaRetail.ipynb]
+[![Ver](https://github.com/alejolion57-stack/Portafolio_Alejandro-Leon/blob/main/Proyecto_NovaRetail.ipynb)]
 
 ---
 
