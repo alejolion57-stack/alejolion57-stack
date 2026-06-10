@@ -9,10 +9,10 @@
 </div>
 
 
-**💻Stack técnico**
+**Stack técnico**
 -
 
-<div align="right">
+<div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -25,7 +25,7 @@
 
 ---
 
-**📊 Mis proyectos**
+**Mis proyectos**
 -
 Esta es la muestra de los trabajos que he desarrollado a lo largo de mi curso como Analista de datos en Tripleten:
 
@@ -38,10 +38,10 @@ Esta es la muestra de los trabajos que he desarrollado a lo largo de mi curso co
 
 </div>
 
-**📮 Contacto**
+** Información de contacto**
 -
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/tu-usuario](https://www.linkedin.com/in/alejandrole%C3%B3nospina/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/alejandroleónospina)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alejolion57@email.com)
 
 </div>
