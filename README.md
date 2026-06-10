@@ -30,9 +30,9 @@ Un director creativo con amor por los datos. Un analista de datos con pasión po
 **📊 Mis proyectos**
 -
 
-**Proyecto Nova retail**
-[[Ver](https://github.com/alejolion57-stack/Portafolio_Alejandro-Leon/blob/main/Proyecto_NovaRetail.ipynb)]
 
+[[Ver](https://github.com/alejolion57-stack/Portafolio_Alejandro-Leon/blob/main/Proyecto_NovaRetail.ipynb)]
+[![📈 Ver Proyecto Nova Retail](https://img.shields.io/badge/📈_Ver_Proyecto_Nova_Retail-007ACC?style=for-the-badge)](https://github.com/alejolion57-stack/Portafolio_Alejandro-Leon/blob/main/Proyecto_NovaRetail.ipynb)
 ---
 
 
