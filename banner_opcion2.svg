@@ -1,0 +1,26 @@
+<svg width="900" height="260" viewBox="0 0 900 260" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="260" fill="#F5F0E8" rx="10"/>
+  <rect x="0" y="0" width="420" height="260" fill="#1a1a2e" rx="10"/>
+  <rect x="410" y="0" width="10" height="260" fill="#1a1a2e"/>
+  <polygon points="420,0 480,0 420,260" fill="#e63946"/>
+
+  <text x="40" y="80" font-family="'Arial Black', Arial, sans-serif" font-size="44" font-weight="900" fill="#ffffff" letter-spacing="-2">ALEJO</text>
+  <text x="40" y="126" font-family="'Arial Black', Arial, sans-serif" font-size="44" font-weight="900" fill="#e63946" letter-spacing="-2">LEÓN</text>
+  <rect x="40" y="142" width="200" height="2" fill="#e63946"/>
+  <text x="40" y="168" font-family="Arial, sans-serif" font-size="12" fill="#94a3b8" letter-spacing="3">BOGOTÁ · COLOMBIA</text>
+  <text x="40" y="200" font-family="Arial, sans-serif" font-size="13" fill="#ffffff">Analista de Datos</text>
+  <text x="40" y="220" font-family="Arial, sans-serif" font-size="11" fill="#94a3b8">Director Creativo y de Estrategia</text>
+
+  <text x="560" y="60" font-family="'Arial Black', Arial, sans-serif" font-size="11" font-weight="900" fill="#1a1a2e" letter-spacing="3">STACK</text>
+  <rect x="540" y="72" width="300" height="1" fill="#1a1a2e" opacity="0.2"/>
+  <rect x="560" y="86" width="100" height="40" fill="#1a1a2e" rx="5"/>
+  <text x="610" y="111" font-family="Arial, sans-serif" font-size="13" fill="#ffffff" text-anchor="middle">Python</text>
+  <rect x="670" y="86" width="100" height="40" fill="#e63946" rx="5"/>
+  <text x="720" y="111" font-family="Arial, sans-serif" font-size="13" fill="#ffffff" text-anchor="middle">SQL</text>
+  <rect x="560" y="136" width="100" height="40" fill="#e63946" rx="5"/>
+  <text x="610" y="161" font-family="Arial, sans-serif" font-size="13" fill="#ffffff" text-anchor="middle">pandas</text>
+  <rect x="670" y="136" width="100" height="40" fill="#1a1a2e" rx="5"/>
+  <text x="720" y="161" font-family="Arial, sans-serif" font-size="13" fill="#ffffff" text-anchor="middle">matplotlib</text>
+
+  <text x="560" y="216" font-family="'Arial Black', Arial, sans-serif" font-size="10" font-weight="900" fill="#94a3b8" letter-spacing="2">OPEN TO WORK · COLOMBIA</text>
+</svg>
