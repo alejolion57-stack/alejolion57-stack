@@ -38,7 +38,7 @@ Esta es la muestra de los trabajos que he desarrollado a lo largo de mi curso co
 
 </div>
 
-** Información de contacto**
+**Información de contacto**
 -
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/alejandroleónospina)
