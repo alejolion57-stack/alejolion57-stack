@@ -6,8 +6,8 @@
 
 <div align="center">
 
-Transformo datos en decisiones claras. Me especializo en análisis exploratorio,<br/>
-limpieza de datos y visualizaciones que comunican historias reales.
+
+
 
 </div>
 
@@ -28,7 +28,8 @@ limpieza de datos y visualizaciones que comunican historias reales.
 
 ---
 
-## 📊 GitHub Stats
+**📊 GitHub Stats**
+-
 
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=alejolion57-stack&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117" />
@@ -41,19 +42,9 @@ limpieza de datos y visualizaciones que comunican historias reales.
 
 ---
 
-## 📌 Lo que hago
-
-```python
-alejandro = {
-    "rol":        "Analista de Datos",
-    "ciudad":     "Bogotá, Colombia",
-    "enfoque":    ["EDA", "Limpieza de datos", "Visualización", "SQL"],
-    "herramientas": ["Python", "pandas", "numpy", "matplotlib", "PostgreSQL"],
-    "actualmente": "Aprendiendo técnicas avanzadas de visualización"
-}
-```
-
----
+**📌 Lo que hago**
+Analista de datos, Director creativo y de estrategia con 19+ años en digital, UX, SEO y contenido. 
+Enfoque en resultados medibles y liderazgo de equipos.
 
 ## 📬 Contacto
 
