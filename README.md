@@ -6,8 +6,7 @@
 
 <div align="center">
 
-Transformo datos en decisiones claras. Me especializo en análisis exploratorio,<br/>
-limpieza de datos y visualizaciones que comunican historias reales.
+Un director creativo con amor por los datos. Un analista de datos con pasión por la creatividad ¡Un estratega desde todos los puntos!
 
 </div>
 
@@ -28,10 +27,10 @@ limpieza de datos y visualizaciones que comunican historias reales.
 
 ---
 
-## 📊 GitHub Stats
+**📊 Mis proyectos**
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=alejolion57-stack&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117" />
+  <img height="160" src="[https://github-readme-stats.vercel.app/api?username=alejolion57-stack&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117](https://github.com/alejolion57-stack/Portafolio_Alejandro-Leon/blob/main/Proyecto_NovaRetail.ipynb)" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejolion57-stack&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" />
 </div>
 
