@@ -29,14 +29,13 @@ Un director creativo con amor por los datos. Un analista de datos con pasión po
 
 **📊 Mis proyectos**
 -
+Esta es la muestra de los trabajos que he desarrollado a lo largo de mi curso como Analista de datos en Tripleten:
+
 [![Proyecto Nova Retail](https://img.shields.io/badge/GitHub-Proyecto_Nova_Retail-black?style=for-the-badge&logo=github)](https://github.com/alejolion57-stack/Portafolio_Alejandro-Leon/blob/main/Proyecto_NovaRetail.ipynb)
+
 ---
 
-
-
-## 📬 Contacto
-
-<div align="center">
+**📮 Contacto**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-usuario)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu@email.com)
