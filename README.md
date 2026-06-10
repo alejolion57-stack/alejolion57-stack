@@ -31,7 +31,8 @@ Esta es la muestra de los trabajos que he desarrollado a lo largo de mi curso co
 
 [![Proyecto Nova Retail](https://img.shields.io/badge/GitHub-Proyecto_Nova_Retail-black?style=for-the-badge&logo=github)](https://github.com/alejolion57-stack/Portafolio_Alejandro-Leon/blob/main/Proyecto_NovaRetail.ipynb)
 [![Contaminación Atmosférica](https://img.shields.io/badge/GitHub-Contaminación_Atmosférica-black?style=for-the-badge&logo=github)](https://github.com/alejolion57-stack/Portafolio_Alejandro-Leon/blob/main/An%C3%A1lisis%20contaminaci%C3%B3n%20admosf%C3%A9rica.md)
-
+[![Proyecto Telecom Analysis](https://img.shields.io/badge/GitHub-Proyecto_Telecom_Analysis-black?style=for-the-badge&logo=github)](https://github.com/alejolion57-stack/Portafolio_Alejandro-Leon/blob/main/Proyecto_telecom_analysis.ipynb)
+[![Landing Experiment A/B](https://img.shields.io/badge/GitHub-Landing_Experiment_A%2FB-black?style=for-the-badge&logo=github)](https://github.com/alejolion57-stack/Portafolio_Alejandro-Leon/blob/main/Proyecto_Landing_Experiment_A_B.ipynb)
 
 ---
 
