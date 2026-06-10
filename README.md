@@ -13,7 +13,7 @@ limpieza de datos y visualizaciones que comunican historias reales.
 
 ---
 
-## 🧰 Stack
+## Stack técnico
 
 <div align="center">
 
@@ -41,19 +41,7 @@ limpieza de datos y visualizaciones que comunican historias reales.
 
 ---
 
-## 📌 Lo que hago
 
-```python
-alejandro = {
-    "rol":        "Analista de Datos",
-    "ciudad":     "Bogotá, Colombia",
-    "enfoque":    ["EDA", "Limpieza de datos", "Visualización", "SQL"],
-    "herramientas": ["Python", "pandas", "numpy", "matplotlib", "PostgreSQL"],
-    "actualmente": "Aprendiendo técnicas avanzadas de visualización"
-}
-```
-
----
 
 ## 📬 Contacto
 
