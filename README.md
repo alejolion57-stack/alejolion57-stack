@@ -3,26 +3,26 @@
 </div>
 
 <br/>
-┌──────────────────────────────────────────────────────────────────────────┐
-│ 👋 SOBRE MÍ                                                              │
-├──────────────────────────────────────────────────────────────────────────┤
-│                                                                          │
-│  🎨 Director Creativo            📊 Analista de Datos                   │
-│                                                                          │
-│  +19 años creando estrategias para marcas nacionales                     │
-│  e internacionales. Hoy combino creatividad, análisis                    │
-│  y tecnología para convertir datos en decisiones.                        │
-│                                                                          │
-│              Creatividad ─────────► Datos                                │
-│                                                                          │
-│  Storytelling        Python                                              │
-│  Branding            SQL                                                 │
-│  Estrategia          Power BI                                            │
-│  UX                  Tableau                                             │
-│  Comunicación        Excel                                               │
-│                                                                          │
-│ "La creatividad inspira las ideas. Los datos demuestran cuáles funcionan."│
-└──────────────────────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ 👋 SOBRE MÍ                                                                │
+├─────────────────────────────────────────────────────────────────────────────┤
+│                                                                             │
+│  🎨 Director Creativo            📊 Analista de Datos                      │
+│                                                                             │
+│  +19 años creando estrategias para marcas nacionales                        │
+│  e internacionales. Hoy combino creatividad, análisis                       │
+│  y tecnología para convertir datos en decisiones.                           │
+│                                                                             │
+│              Creatividad ─────────► Datos                                   │
+│                                                                             │
+│  Storytelling        Python                                                 │
+│  Branding            SQL                                                    │
+│  Estrategia          Power BI                                               │
+│  UX                  Tableau                                                │
+│  Comunicación        Excel                                                  │
+│                                                                             │
+│ "La creatividad inspira las ideas. Los datos demuestran cuáles funcionan."  │
+└─────────────────────────────────────────────────────────────────────────────┘
 
 <div align="left">
 
@@ -43,7 +43,9 @@ Esta es una muestra de los trabajos que he desarrollado a lo largo de mi curso c
 </div>
 
 
-**Contacto**
+---
+
+**⭐ Gracias por visitar mi perfil**
 -
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alejandro%20León-0077B5?style=for-the-badge&logo=linkedin&logoColor=1E293B)](https://www.linkedin.com/in/alejandrole%C3%B3nospina/)
 [![Email](https://img.shields.io/badge/Email-alejolion57%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alejolion57@gmail.com)
