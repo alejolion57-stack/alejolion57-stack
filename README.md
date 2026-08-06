@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/alejolion57-stack/alejolion57-stack/main/banner.svg" alt="Banner Alejandro León" width="100%"/>
+  <img src="https://raw.githubusercontent.com/alejolion57-stack/alejolion57-stack/main/Banner.svg" alt="Banner Alejandro León" width="100%"/>
 </div>
 
 <br/>
