@@ -3,26 +3,10 @@
 </div>
 
 <br/>
-┌─────────────────────────────────────────────────────────────────────────────┐
-│ 👋 SOBRE MÍ                                                                │
-├─────────────────────────────────────────────────────────────────────────────┤
-│                                                                             │
-│  🎨 Director Creativo            📊 Analista de Datos                      │
-│                                                                             │
-│  +19 años creando estrategias para marcas nacionales                        │
-│  e internacionales. Hoy combino creatividad, análisis                       │
-│  y tecnología para convertir datos en decisiones.                           │
-│                                                                             │
-│              Creatividad ─────────► Datos                                   │
-│                                                                             │
-│  Storytelling        Python                                                 │
-│  Branding            SQL                                                    │
-│  Estrategia          Power BI                                               │
-│  UX                  Tableau                                                │
-│  Comunicación        Excel                                                  │
-│                                                                             │
-│ "La creatividad inspira las ideas. Los datos demuestran cuáles funcionan."  │
-└─────────────────────────────────────────────────────────────────────────────┘
+<p align="center">
+  <img src="About.svg" width="100%">
+</p>
+
 
 <div align="left">
 
