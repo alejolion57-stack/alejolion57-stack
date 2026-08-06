@@ -4,7 +4,7 @@
 
 <br/>
 
-<div align="center">
+<div align="left">
 
 **Mis proyectos**
 -
