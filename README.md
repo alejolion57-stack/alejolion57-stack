@@ -3,10 +3,9 @@
 
 <p align="center">
   <img src="about.png" width="100%">
-</p>
 
 <p align="center">
-  <img src="proyectos.png" width="50%">
+  <img src="proyectos.png" width="100%">
 </p>
 
 <div align="left">
