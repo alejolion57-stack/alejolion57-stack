@@ -276,4 +276,178 @@ Los datos demuestran cuáles funcionan."
 </tspan>
 
 </text>
+<!-- ================================= -->
+<!-- PANEL DERECHO -->
+<!-- ================================= -->
+
+<!-- Título -->
+
+<text
+x="1140"
+y="180"
+font-family="Arial Black"
+font-size="34"
+fill="white">
+
+MIS FORTALEZAS
+
+</text>
+
+<rect
+x="1140"
+y="198"
+width="240"
+height="5"
+rx="3"
+fill="#ff2b2b"/>
+
+<!-- TARJETA 1 -->
+
+<rect
+x="1140"
+y="240"
+width="330"
+height="90"
+rx="14"
+fill="#102C63"
+stroke="#2D6CFF"
+stroke-opacity=".35"/>
+
+<text x="1175" y="278" font-size="30">💡</text>
+
+<text
+x="1225"
+y="278"
+font-size="26"
+font-family="Arial"
+fill="white">
+
+Storytelling
+
+</text>
+
+<!-- TARJETA 2 -->
+
+<rect
+x="1500"
+y="240"
+width="330"
+height="90"
+rx="14"
+fill="#102C63"
+stroke="#2D6CFF"
+stroke-opacity=".35"/>
+
+<text x="1535" y="278" font-size="30">🎯</text>
+
+<text
+x="1585"
+y="278"
+font-size="26"
+font-family="Arial"
+fill="white">
+
+Estrategia
+
+</text>
+
+<!-- TARJETA 3 -->
+
+<rect
+x="1140"
+y="360"
+width="330"
+height="90"
+rx="14"
+fill="#102C63"
+stroke="#2D6CFF"
+stroke-opacity=".35"/>
+
+<text x="1175" y="398" font-size="30">🎨</text>
+
+<text
+x="1225"
+y="398"
+font-size="26"
+font-family="Arial"
+fill="white">
+
+Branding
+
+</text>
+
+<!-- TARJETA 4 -->
+
+<rect
+x="1500"
+y="360"
+width="330"
+height="90"
+rx="14"
+fill="#102C63"
+stroke="#2D6CFF"
+stroke-opacity=".35"/>
+
+<text x="1535" y="398" font-size="30">📣</text>
+
+<text
+x="1585"
+y="398"
+font-size="26"
+font-family="Arial"
+fill="white">
+
+Comunicación
+
+</text>
+
+<!-- TARJETA 5 -->
+
+<rect
+x="1140"
+y="480"
+width="330"
+height="90"
+rx="14"
+fill="#102C63"
+stroke="#2D6CFF"
+stroke-opacity=".35"/>
+
+<text x="1175" y="518" font-size="30">📊</text>
+
+<text
+x="1225"
+y="518"
+font-size="26"
+font-family="Arial"
+fill="white">
+
+Análisis
+
+</text>
+
+<!-- TARJETA 6 -->
+
+<rect
+x="1500"
+y="480"
+width="330"
+height="90"
+rx="14"
+fill="#102C63"
+stroke="#2D6CFF"
+stroke-opacity=".35"/>
+
+<text x="1535" y="518" font-size="30">🚀</text>
+
+<text
+x="1585"
+y="518"
+font-size="26"
+font-family="Arial"
+fill="white">
+
+Innovación
+
+</text>  
 </svg>
