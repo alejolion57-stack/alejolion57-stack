@@ -1,0 +1,70 @@
+<svg width="1966" height="980" viewBox="0 0 1966 980"
+xmlns="http://www.w3.org/2000/svg">
+
+<defs>
+
+<linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+<stop offset="0%" stop-color="#081B43"/>
+<stop offset="100%" stop-color="#04112B"/>
+</linearGradient>
+
+<linearGradient id="panel" x1="0%" y1="0%" x2="100%" y2="100%">
+<stop offset="0%" stop-color="#0D275A"/>
+<stop offset="100%" stop-color="#071A3F"/>
+</linearGradient>
+
+<filter id="shadow">
+<feDropShadow dx="0" dy="8" stdDeviation="10"
+flood-color="#000000" flood-opacity="0.35"/>
+</filter>
+
+</defs>
+
+<!-- Fondo -->
+
+<rect
+width="1966"
+height="980"
+rx="20"
+fill="url(#bg)"/>
+
+<!-- Panel izquierdo -->
+
+<rect
+x="35"
+y="120"
+width="1040"
+height="500"
+rx="18"
+fill="url(#panel)"
+stroke="#2C6DFF"
+stroke-opacity=".35"
+filter="url(#shadow)"/>
+
+<!-- Panel derecho -->
+
+<rect
+x="1100"
+y="120"
+width="830"
+height="500"
+rx="18"
+fill="url(#panel)"
+stroke="#2C6DFF"
+stroke-opacity=".35"
+filter="url(#shadow)"/>
+
+<!-- Panel Timeline -->
+
+<rect
+x="35"
+y="650"
+width="1895"
+height="290"
+rx="18"
+fill="url(#panel)"
+stroke="#2C6DFF"
+stroke-opacity=".35"
+filter="url(#shadow)"/>
+
+</svg>
