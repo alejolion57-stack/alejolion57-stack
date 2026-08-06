@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="about.png" width="100%">
-<p align="left">
+< align="left">
   <img src="proyectos.png" alt="Mis proyectos" width="100%">
 
 <div align="left">
