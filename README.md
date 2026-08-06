@@ -30,6 +30,7 @@ Aquí podrá ver un la muestra de los trabajos que he desarrollado a lo largo de
 
 <div align="left"> 
   
+[![Proyecto Rappiplus](https://img.shields.io/badge/GitHub-Proyecto_Rappiplus-black?style=for-the-badge&logo=github)](https://github.com/alejolion57-stack/Portafolio_Alejandro-Leon/blob/main/Proyecto_Rappiplus.ipynb)
 [![Proyecto Nova Retail](https://img.shields.io/badge/GitHub-Proyecto_Nova_Retail-black?style=for-the-badge&logo=github)](https://github.com/alejolion57-stack/Portafolio_Alejandro-Leon/blob/main/Proyecto_NovaRetail.ipynb)
 [![Contaminación Atmosférica](https://img.shields.io/badge/GitHub-Contaminación_Atmosférica-black?style=for-the-badge&logo=github)](https://github.com/alejolion57-stack/Portafolio_Alejandro-Leon/blob/main/An%C3%A1lisis%20contaminaci%C3%B3n%20admosf%C3%A9rica.md)
 [![Proyecto Telecom Analysis](https://img.shields.io/badge/GitHub-Proyecto_Telecom_Analysis-black?style=for-the-badge&logo=github)](https://github.com/alejolion57-stack/Portafolio_Alejandro-Leon/blob/main/Proyecto_telecom_analysis.ipynb)
