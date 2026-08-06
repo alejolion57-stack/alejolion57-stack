@@ -12,7 +12,7 @@
 
 **Mis proyectos**
 -
-Esta es una muestra de los trabajos que he desarrollado a lo largo de mi curso como Analista de datos en Tripleten:
+Esta es solo la punta del iceberg,una muestra de los trabajos que he logrado durante mi curso como Analista de datos en Tripleten:
 
 <div align="left"> 
   
