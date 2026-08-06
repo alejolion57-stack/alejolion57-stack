@@ -1,0 +1,63 @@
+<svg width="900" height="260" viewBox="0 0 900 260" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Fondo -->
+  <rect width="900" height="260" rx="12" fill="#F5F0E8"/>
+
+  <!-- Barra lateral -->
+  <rect x="0" y="0" width="12" height="260" fill="#E63946"/>
+
+  <!-- Título -->
+  <text x="40" y="50"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="28"
+        font-weight="700"
+        fill="#1A1A2E">
+    👋 Sobre mí
+  </text>
+
+  <!-- Línea -->
+  <line x1="40" y1="65" x2="860" y2="65"
+        stroke="#E63946"
+        stroke-width="2"/>
+
+  <!-- Texto -->
+  <text x="40" y="100"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="16"
+        fill="#3A3A3A">
+
+    <tspan x="40" dy="0">
+      Soy Director Creativo y Analista de Datos. Me apasiona transformar
+    </tspan>
+
+    <tspan x="40" dy="28">
+      la información en decisiones estratégicas y convertir los datos
+    </tspan>
+
+    <tspan x="40" dy="28">
+      en oportunidades de crecimiento para las organizaciones.
+    </tspan>
+
+    <tspan x="40" dy="38">
+      Tras casi dos décadas liderando proyectos de creatividad,
+    </tspan>
+
+    <tspan x="40" dy="28">
+      branding y comunicación digital para marcas nacionales
+    </tspan>
+
+    <tspan x="40" dy="28">
+      e internacionales, amplié mi perfil profesional hacia
+    </tspan>
+
+    <tspan x="40" dy="28">
+      el análisis de datos, integrando pensamiento creativo,
+    </tspan>
+
+    <tspan x="40" dy="28">
+      inteligencia de negocios y visualización de datos.
+    </tspan>
+
+  </text>
+
+</svg>
