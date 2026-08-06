@@ -4,21 +4,21 @@
 
 <br/>
 
-## 👋 Sobre mí
-
-> Soy Director Creativo y Analista de Datos. Me apasiona transformar la información en decisiones estratégicas y convertir los datos en oportunidades de crecimiento para las organizaciones.
->
-> Tras casi dos décadas liderando proyectos de creatividad, branding y comunicación digital para marcas nacionales e internacionales, amplié mi perfil profesional hacia el análisis de datos, integrando el pensamiento creativo con la inteligencia de negocios, la visualización de datos y el análisis estadístico.
->
-> Hoy diseño dashboards, analizo el comportamiento de clientes, depuro y modelo datos y traduzco información compleja en insights claros que impulsan decisiones de negocio.
->
-> **Creo que las mejores soluciones nacen cuando la creatividad y los datos trabajan juntos.**
+┌──────────────────────────────────────────────────────────┐
+│ 👋 SOBRE MÍ                                              │
+│                                                          │
+│ Soy Director Creativo y Analista de Datos...             │
+│                                                          │
+│ Hoy diseño dashboards...                                 │
+│                                                          │
+│ "Donde la creatividad y los datos trabajan juntos."      │
+└──────────────────────────────────────────────────────────┘
 
 <div align="left">
 
 **Mis proyectos**
 -
-Aquí podrá ver un la muestra de los trabajos que he desarrollado a lo largo de mi curso como Analista de datos en Tripleten:
+Esta es una muestra de los trabajos que he desarrollado a lo largo de mi curso como Analista de datos en Tripleten:
 
 <div align="left"> 
   
