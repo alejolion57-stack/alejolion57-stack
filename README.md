@@ -6,10 +6,6 @@
 
 <div align="center">
 
-</div>
-
-
-
 **Mis proyectos**
 -
 Aquí podrá ver un la muestra de los trabajos que he desarrollado a lo largo de mi curso como Analista de datos en Tripleten:
