@@ -12,7 +12,7 @@
 >
 > Hoy diseño dashboards, analizo el comportamiento de clientes, depuro y modelo datos y traduzco información compleja en insights claros que impulsan decisiones de negocio.
 >
-> Creo que las mejores soluciones nacen cuando la creatividad y los datos trabajan juntos.
+> **Creo que las mejores soluciones nacen cuando la creatividad y los datos trabajan juntos.**
 
 <div align="left">
 
