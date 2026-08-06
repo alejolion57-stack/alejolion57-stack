@@ -2,8 +2,7 @@
   <img src="https://raw.githubusercontent.com/alejolion57-stack/alejolion57-stack/main/banner.png" alt="Banner Alejandro León" width="100%"/>
 
 <p align="center">
-  <img src="about.png" width="100%">
-< align="left">
+  <img src="about.png" width="100%"> <p align="left">
   <img src="proyectos.png" alt="Mis proyectos" width="100%">
 
 <div align="left">
