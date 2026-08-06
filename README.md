@@ -1,7 +1,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/alejolion57-stack/alejolion57-stack/main/Banner.png" alt="Banner Alejandro León" width="100%"/>
 
-<br/>
 <p align="center">
   <img src="about.png" width="100%">
 </p>
