@@ -6,13 +6,13 @@
 
 ## 👋 Sobre mí
 
-Soy Director Creativo y Analista de Datos, apasionado por transformar la información en decisiones estratégicas.
-
-Después de casi dos décadas liderando proyectos de creatividad, branding y comunicación digital para marcas nacionales e internacionales, decidí ampliar mi experiencia hacia el análisis de datos, integrando el pensamiento estratégico con la visualización de información, la inteligencia de negocios y el análisis estadístico.
-
-Hoy desarrollo dashboards, analizo el comportamiento de los clientes, depuro y modelo datos, y convierto conjuntos de información complejos en insights claros que apoyan la toma de decisiones.
-
-Disfruto resolver problemas de negocio en el punto donde la creatividad y los datos se encuentran.
+> Soy Director Creativo y Analista de Datos. Me apasiona transformar la información en decisiones estratégicas y convertir los datos en oportunidades de crecimiento para las organizaciones.
+>
+> Tras casi dos décadas liderando proyectos de creatividad, branding y comunicación digital para marcas nacionales e internacionales, amplié mi perfil profesional hacia el análisis de datos, integrando el pensamiento creativo con la inteligencia de negocios, la visualización de datos y el análisis estadístico.
+>
+> Hoy diseño dashboards, analizo el comportamiento de clientes, depuro y modelo datos y traduzco información compleja en insights claros que impulsan decisiones de negocio.
+>
+> Creo que las mejores soluciones nacen cuando la creatividad y los datos trabajan juntos.
 
 <div align="left">
 
