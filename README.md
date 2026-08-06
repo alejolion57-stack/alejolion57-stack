@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="proyectos.png" width="100%">
+  <img src="proyectos.png" width="50%">
 </p>
 
 <div align="left">
