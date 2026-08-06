@@ -138,4 +138,142 @@ stroke-opacity=".25"/>
 <circle cx="1860" cy="95" r="3"/>
 
 </g>  
+
+  <!-- ================================= -->
+<!-- TARJETA IZQUIERDA -->
+<!-- ================================= -->
+
+<!-- Icono principal -->
+
+<circle
+cx="125"
+cy="185"
+r="32"
+fill="#1E3A8A"
+stroke="#2D6CFF"
+stroke-width="2"/>
+
+<text
+x="125"
+y="198"
+text-anchor="middle"
+font-size="30"
+font-family="Segoe UI Emoji">
+💡
+</text>
+
+<!-- Título -->
+
+<text
+x="180"
+y="175"
+font-family="Arial Black"
+font-size="34"
+fill="#ffffff">
+
+DIRECTOR CREATIVO
+
+</text>
+
+<!-- Subtitulo -->
+
+<text
+x="180"
+y="220"
+font-family="Arial Black"
+font-size="30"
+fill="#55A8FF">
+
+ANALISTA DE DATOS
+
+</text>
+
+<!-- Línea -->
+
+<rect
+x="180"
+y="238"
+width="250"
+height="5"
+rx="3"
+fill="#ff2b2b"/>
+
+<!-- Descripción -->
+
+<text
+font-family="Arial"
+font-size="26"
+fill="#d7dce7">
+
+<tspan x="85" y="320">
+
+Más de 19 años desarrollando
+
+</tspan>
+
+<tspan x="85" dy="40">
+
+estrategias de comunicación,
+
+</tspan>
+
+<tspan x="85" dy="40">
+
+branding y creatividad para
+
+</tspan>
+
+<tspan x="85" dy="40">
+
+marcas nacionales e
+
+</tspan>
+
+<tspan x="85" dy="40">
+
+internacionales.
+
+</tspan>
+
+<tspan x="85" dy="60">
+
+Hoy complemento esa experiencia
+
+</tspan>
+
+<tspan x="85" dy="40">
+
+con Business Intelligence,
+
+</tspan>
+
+<tspan x="85" dy="40">
+
+visualización y análisis de datos.
+
+</tspan>
+
+</text>
+
+<!-- Frase -->
+
+<text
+font-family="Arial"
+font-size="24"
+font-style="italic"
+fill="#82B6FF">
+
+<tspan x="85" y="560">
+
+"La creatividad inspira las ideas.
+
+</tspan>
+
+<tspan x="85" dy="36">
+
+Los datos demuestran cuáles funcionan."
+
+</tspan>
+
+</text>
 </svg>
