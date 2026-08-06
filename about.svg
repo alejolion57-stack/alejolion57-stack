@@ -449,5 +449,239 @@ fill="white">
 
 Innovación
 
-</text>  
+</text> 
+<!-- ================================= -->
+<!-- TIMELINE -->
+<!-- ================================= -->
+
+<!-- Título -->
+
+<text
+x="80"
+y="705"
+font-family="Arial Black"
+font-size="34"
+fill="white">
+
+EVOLUCIÓN PROFESIONAL
+
+</text>
+
+<rect
+x="80"
+y="720"
+width="360"
+height="5"
+rx="3"
+fill="#ff2b2b"/>
+
+<!-- Línea -->
+
+<line
+x1="170"
+y1="810"
+x2="1790"
+y2="810"
+stroke="#2D6CFF"
+stroke-width="6"
+stroke-linecap="round"/>
+
+<!-- Nodo 1 -->
+
+<circle cx="170" cy="810" r="15" fill="#ff2b2b"/>
+
+<text
+x="170"
+y="770"
+text-anchor="middle"
+fill="#9FC4FF"
+font-size="20"
+font-family="Arial">
+
+2007
+
+</text>
+
+<text
+x="170"
+y="855"
+text-anchor="middle"
+fill="white"
+font-size="22"
+font-family="Arial"
+font-weight="bold">
+
+JWT
+
+</text>
+
+<text
+x="170"
+y="885"
+text-anchor="middle"
+fill="#D9E5FF"
+font-size="18"
+font-family="Arial">
+
+Copywriter
+
+</text>
+
+<!-- Nodo 2 -->
+
+<circle cx="560" cy="810" r="15" fill="#2D6CFF"/>
+
+<text
+x="560"
+y="770"
+text-anchor="middle"
+fill="#9FC4FF"
+font-size="20">
+
+2011
+
+</text>
+
+<text
+x="560"
+y="855"
+text-anchor="middle"
+fill="white"
+font-size="22"
+font-weight="bold">
+
+Netbangers
+
+</text>
+
+<text
+x="560"
+y="885"
+text-anchor="middle"
+fill="#D9E5FF"
+font-size="18">
+
+Director Creativo
+
+</text>
+
+<!-- Nodo 3 -->
+
+<circle cx="960" cy="810" r="15" fill="#2D6CFF"/>
+
+<text
+x="960"
+y="770"
+text-anchor="middle"
+fill="#9FC4FF"
+font-size="20">
+
+2023
+
+</text>
+
+<text
+x="960"
+y="855"
+text-anchor="middle"
+fill="white"
+font-size="22"
+font-weight="bold">
+
+Publimetro
+
+</text>
+
+<text
+x="960"
+y="885"
+text-anchor="middle"
+fill="#D9E5FF"
+font-size="18">
+
+Content Lab
+
+</text>
+
+<!-- Nodo 4 -->
+
+<circle cx="1370" cy="810" r="15" fill="#2D6CFF"/>
+
+<text
+x="1370"
+y="770"
+text-anchor="middle"
+fill="#9FC4FF"
+font-size="20">
+
+2024
+
+</text>
+
+<text
+x="1370"
+y="855"
+text-anchor="middle"
+fill="white"
+font-size="22"
+font-weight="bold">
+
+Kokoriko
+
+</text>
+
+<text
+x="1370"
+y="885"
+text-anchor="middle"
+fill="#D9E5FF"
+font-size="18">
+
+Dirección Estratégica
+
+</text>
+
+<!-- Nodo 5 -->
+
+<circle cx="1790" cy="810" r="18" fill="#00D084"/>
+
+<circle cx="1790" cy="810" r="28"
+fill="none"
+stroke="#00D084"
+stroke-width="4"
+opacity=".45"/>
+
+<text
+x="1790"
+y="770"
+text-anchor="middle"
+fill="#9FC4FF"
+font-size="20">
+
+HOY
+
+</text>
+
+<text
+x="1790"
+y="855"
+text-anchor="middle"
+fill="white"
+font-size="22"
+font-weight="bold">
+
+Data Analytics
+
+</text>
+
+<text
+x="1790"
+y="885"
+text-anchor="middle"
+fill="#D9E5FF"
+font-size="18">
+
+Business Intelligence
+
+</text>
 </svg>
