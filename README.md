@@ -4,11 +4,12 @@
 <p align="center">
   <img src="about.png" width="100%">
 
-<p align="center">
-  <img src="proyectos.png" width="120%">
+<p align="left">
+  <img src="proyectos.png" alt="Mis proyectos" width="100%">
+</p>
 
 <div align="left">
----
+
 ¡Esta es solo la punta del iceberg! una muestra de los trabajos que he logrado durante mi curso como Analista de datos en Tripleten:
 
 <div align="left"> 
