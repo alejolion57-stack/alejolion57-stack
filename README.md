@@ -3,16 +3,26 @@
 </div>
 
 <br/>
-
-┌──────────────────────────────────────────────────────────┐
-│ 👋 SOBRE MÍ                                              │
-│                                                          │
-│ Soy Director Creativo y Analista de Datos...             │
-│                                                          │
-│ Hoy diseño dashboards...                                 │
-│                                                          │
-│ "Donde la creatividad y los datos trabajan juntos."      │
-└──────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────────────────┐
+│ 👋 SOBRE MÍ                                                              │
+├──────────────────────────────────────────────────────────────────────────┤
+│                                                                          │
+│  🎨 Director Creativo            📊 Analista de Datos                   │
+│                                                                          │
+│  +19 años creando estrategias para marcas nacionales                     │
+│  e internacionales. Hoy combino creatividad, análisis                    │
+│  y tecnología para convertir datos en decisiones.                        │
+│                                                                          │
+│              Creatividad ─────────► Datos                                │
+│                                                                          │
+│  Storytelling        Python                                              │
+│  Branding            SQL                                                 │
+│  Estrategia          Power BI                                            │
+│  UX                  Tableau                                             │
+│  Comunicación        Excel                                               │
+│                                                                          │
+│ "La creatividad inspira las ideas. Los datos demuestran cuáles funcionan."│
+└──────────────────────────────────────────────────────────────────────────┘
 
 <div align="left">
 
