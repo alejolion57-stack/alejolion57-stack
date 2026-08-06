@@ -9,7 +9,7 @@
 <div align="left">
   
 ¡Esta es solo la punta del iceberg! una muestra de los trabajos que he logrado durante mi curso como Analista de datos en Tripleten:
----
+--
 <div align="left"> 
   
 [![Proyecto Rappiplus](https://img.shields.io/badge/GitHub-Proyecto_Rappiplus-black?style=for-the-badge&logo=github)](https://github.com/alejolion57-stack/Portafolio_Alejandro-Leon/blob/main/Proyecto_Rappiplus.ipynb)
